@@ -62,3 +62,8 @@ copy EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY and copy to .env
 For database: neon.com
 Create a project
 Copy the connection string to .env
+
+How to run this app:
+Install ExpoGO app on my phone. 
+run npx expo and scan the qr code generated with my phone
+
