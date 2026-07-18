@@ -54,3 +54,11 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+For authetication: clerk.com
+Create an application, get expo sdk,
+copy EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY and copy to .env
+
+For database: neon.com
+Create a project
+Copy the connection string to .env
