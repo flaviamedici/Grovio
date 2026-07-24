@@ -70,3 +70,10 @@ run npx expo and scan the qr code generated with my phone
 For Tailwind CSS, install NativeWind
 https://www.nativewind.dev/docs/getting-started/installation
 
+AUthentication: [clerk.com](https://clerk.com/docs/expo/getting-started/quickstart)
+npm install @clerk/expo expo-secure-store
+
+add to  .env
+EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY= YOUR_PUBLISHABLE_KEY
+
+add to _layout.tsx file:
